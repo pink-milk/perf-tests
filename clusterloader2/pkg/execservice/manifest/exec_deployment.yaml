@@ -13,6 +13,8 @@ spec:
        labels:
          feature: exec
     spec:
+      nodeSelector:
+        agentpool: wlinux
       containers:
       - name: agnhost
         image: registry.k8s.io/e2e-test-images/agnhost:2.32

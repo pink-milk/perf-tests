@@ -15,8 +15,12 @@ spec:
         name: {{.Name}}
         group: {{.Group}}
     spec:
+      nodeSelector:
+        agentpool: w22d32
       containers:
-      - image: registry.k8s.io/pause:3.9
+      - image: mcr.microsoft.com/windows/servercore:ltsc2022 
+        command: ["cmd"]
+        args: ["/c", "ping", "127.0.0.1", "-t"]
         imagePullPolicy: IfNotPresent
         name: {{.Name}}
         ports:

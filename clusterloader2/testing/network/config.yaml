@@ -1,6 +1,6 @@
-{{$PROTOCOL := .CL2_PROTOCOL}}
-{{$NUMBER_OF_SERVERS := .CL2_NUMBER_OF_SERVERS}}
-{{$NUMBER_OF_CLIENTS := .CL2_NUMBER_OF_CLIENTS}}
+{{$protocol := DefaultParam .CL2_PROTOCOL "TCP"}}
+{{$numberOfServers := DefaultParam .CL2_NUMBER_OF_SERVERS 5}}
+{{$numberOfClients := DefaultParam .CL2_NUMBER_OF_CLIENTS 5}}
 
 name: network_performance 
 namespace:
@@ -13,9 +13,9 @@ steps:
       Params:
         action: start
         duration: 10s
-        protocol: {{$PROTOCOL}}
-        numberOfServers: {{$NUMBER_OF_SERVERS}}
-        numberOfClients: {{$NUMBER_OF_CLIENTS}}
+        protocol: {{$protocol}}
+        numberOfServers: {{$numberOfServers}}
+        numberOfClients: {{$numberOfClients}}
 - name: Gather network performance measurement
   measurements:
     - Identifier: NetworkPerformanceMetrics

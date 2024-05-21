@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <testsuite name="ClusterLoaderV2" tests="0" failures="0" errors="0" time="16.992">
+      <testcase name="test overall (/home/oliviavuong/clusterloader2/cl2_linux/perf-tests/clusterloader2/olivias_test_files/test_pod_latency/config.yaml)" classname="ClusterLoaderV2" time="16.989823452"></testcase>
+      <testcase name="test: [step: 01] Start measurements [00] - PodStartupLatency" classname="ClusterLoaderV2" time="0.578995725"></testcase>
+      <testcase name="test: [step: 01] Start measurements [01] - WaitForControlledPodsRunning" classname="ClusterLoaderV2" time="0.880794037"></testcase>
+      <testcase name="test: [step: 02] Create deployment" classname="ClusterLoaderV2" time="0.202840352"></testcase>
+      <testcase name="test: [step: 03] Wait for pods to be running [00] - WaitForControlledPodsRunning" classname="ClusterLoaderV2" time="5.177717634"></testcase>
+      <testcase name="test: [step: 04] Measure pod startup latency [00] - PodStartupLatency" classname="ClusterLoaderV2" time="0.241740814"></testcase>
+  </testsuite>

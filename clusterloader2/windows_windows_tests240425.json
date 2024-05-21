@@ -1,0 +1,126 @@
+I0425 15:48:07.626740 1813110 dns_performance-k8s-hostnames.go:58] Registering measurement: DNS Performance for K8s Hostnames
+I0425 15:48:07.627017 1813110 network_performance_measurement.go:90] Registering Network Performance Measurement
+I0425 15:48:07.635103 1813110 clusterloader.go:267] Listening on 8000
+E0425 15:48:08.513176 1813110 clusterloader.go:171] Getting master name error: master node not found
+E0425 15:48:08.715127 1813110 clusterloader.go:180] Getting master external ip error: didn't find any ExternalIP master IPs
+E0425 15:48:08.850194 1813110 clusterloader.go:189] Getting master internal ip error: didn't find any InternalIP master IPs
+I0425 15:48:08.850295 1813110 clusterloader.go:291] Using config: {ClusterConfig:{KubeConfigPath:/home/oliviavuong/.kube/config RunFromCluster:false Nodes:100 Provider:0xc00050def0 EtcdCertificatePath:/etc/srv/kubernetes/pki/etcd-apiserver-server.crt EtcdKeyPath:/etc/srv/kubernetes/pki/etcd-apiserver-server.key EtcdInsecurePort:2382 MasterIPs:[] MasterInternalIPs:[] MasterName: DeleteStaleNamespaces:false DeleteAutomanagedNamespaces:true APIServerPprofByClientEnabled:false KubeletPort:10250 K8SClientsNumber:1 SkipClusterVerification:false} ReportDir:/home/oliviavuong/clusterloader2/cl2_linux/perf-tests/clusterloader2/olivias_test_files/windows_test ExecServiceConfig:{Enable:true} ModifierConfig:{OverwriteTestConfig:[] SkipSteps:[]} PrometheusConfig:{TearDownServer:true EnableServer:false EnablePushgateway:false ScrapeEtcd:false ScrapeNodeExporter:false ScrapeWindowsNodeExporter:false ScrapeKubelets:false ScrapeMasterKubelets:false ScrapeKubeProxy:true KubeProxySelectorKey:component ScrapeKubeStateMetrics:false ScrapeMetricsServerMetrics:false ScrapeNodeLocalDNS:false ScrapeAnet:false ScrapeCiliumOperator:false ScrapeMastersWithPublicIPs:false APIServerScrapePort:443 SnapshotProject: ManifestPath: StorageClassProvisioner:kubernetes.io/azure-disk StorageClassVolumeType:Premium_LRS PVCStorageClass:ssd ReadyTimeout:15m0s PrometheusMemoryRequest:10Gi} OverridePaths:[]}
+I0425 15:48:08.991560 1813110 cluster.go:75] Listing cluster nodes:
+I0425 15:48:08.991651 1813110 cluster.go:87] Name: aks-cplat-13941547-vmss000000, clusterIP: 10.224.1.84, externalIP: , isSchedulable: true
+I0425 15:48:08.991669 1813110 cluster.go:87] Name: aks-cplat-13941547-vmss000001, clusterIP: 10.224.0.91, externalIP: , isSchedulable: true
+I0425 15:48:08.991678 1813110 cluster.go:87] Name: aks-nodepool1-38932172-vmss000000, clusterIP: 10.224.0.62, externalIP: , isSchedulable: true
+I0425 15:48:08.991687 1813110 cluster.go:87] Name: aks-nodepool1-38932172-vmss000001, clusterIP: 10.224.0.33, externalIP: , isSchedulable: true
+I0425 15:48:08.991696 1813110 cluster.go:87] Name: aks-nodepool1-38932172-vmss000002, clusterIP: 10.224.0.4, externalIP: , isSchedulable: true
+I0425 15:48:08.991705 1813110 cluster.go:87] Name: aks-wlinux-39890926-vmss000000, clusterIP: 10.224.2.77, externalIP: , isSchedulable: true
+I0425 15:48:08.991714 1813110 cluster.go:87] Name: aksw22d32000000, clusterIP: 10.224.46.106, externalIP: , isSchedulable: true
+I0425 15:48:08.991722 1813110 cluster.go:87] Name: aksw22d32000001, clusterIP: 10.224.4.65, externalIP: , isSchedulable: true
+I0425 15:48:08.991730 1813110 cluster.go:87] Name: aksw22d32000002, clusterIP: 10.224.10.35, externalIP: , isSchedulable: true
+I0425 15:48:08.991738 1813110 cluster.go:87] Name: aksw22d32000003, clusterIP: 10.224.65.11, externalIP: , isSchedulable: true
+I0425 15:48:08.991746 1813110 cluster.go:87] Name: aksw22d32000004, clusterIP: 10.224.69.242, externalIP: , isSchedulable: true
+I0425 15:48:08.991755 1813110 cluster.go:87] Name: aksw22d32000005, clusterIP: 10.224.76.207, externalIP: , isSchedulable: true
+I0425 15:48:08.991763 1813110 cluster.go:87] Name: aksw22d32000006, clusterIP: 10.224.80.187, externalIP: , isSchedulable: true
+I0425 15:48:08.991771 1813110 cluster.go:87] Name: aksw22d32000007, clusterIP: 10.224.17.251, externalIP: , isSchedulable: true
+I0425 15:48:08.991779 1813110 cluster.go:87] Name: aksw22d32000008, clusterIP: 10.224.55.61, externalIP: , isSchedulable: true
+I0425 15:48:08.991802 1813110 cluster.go:87] Name: aksw22d32000009, clusterIP: 10.224.71.232, externalIP: , isSchedulable: true
+I0425 15:48:08.991810 1813110 cluster.go:87] Name: aksw22d3200000a, clusterIP: 10.224.45.111, externalIP: , isSchedulable: true
+I0425 15:48:08.991819 1813110 cluster.go:87] Name: aksw22d3200000b, clusterIP: 10.224.5.60, externalIP: , isSchedulable: true
+I0425 15:48:08.991827 1813110 cluster.go:87] Name: aksw22d3200000c, clusterIP: 10.224.96.107, externalIP: , isSchedulable: true
+I0425 15:48:08.991835 1813110 cluster.go:87] Name: aksw22d3200000d, clusterIP: 10.224.16.5, externalIP: , isSchedulable: true
+I0425 15:48:08.991843 1813110 cluster.go:87] Name: aksw22d3200000e, clusterIP: 10.224.3.70, externalIP: , isSchedulable: true
+I0425 15:48:08.991850 1813110 cluster.go:87] Name: aksw22d3200000f, clusterIP: 10.224.6.55, externalIP: , isSchedulable: true
+I0425 15:48:08.991858 1813110 cluster.go:87] Name: aksw22d3200000g, clusterIP: 10.224.97.102, externalIP: , isSchedulable: false
+I0425 15:48:08.991865 1813110 cluster.go:87] Name: aksw22d3200000h, clusterIP: 10.224.8.45, externalIP: , isSchedulable: true
+I0425 15:48:08.991873 1813110 cluster.go:87] Name: aksw22d3200000i, clusterIP: 10.224.13.20, externalIP: , isSchedulable: true
+I0425 15:48:08.991881 1813110 cluster.go:87] Name: aksw22d3200000j, clusterIP: 10.224.25.211, externalIP: , isSchedulable: true
+I0425 15:48:08.991889 1813110 cluster.go:87] Name: aksw22d3200000k, clusterIP: 10.224.32.176, externalIP: , isSchedulable: true
+I0425 15:48:08.991897 1813110 cluster.go:87] Name: aksw22d3200000l, clusterIP: 10.224.7.50, externalIP: , isSchedulable: true
+I0425 15:48:08.991906 1813110 cluster.go:87] Name: aksw22d3200000m, clusterIP: 10.224.12.25, externalIP: , isSchedulable: true
+I0425 15:48:08.991913 1813110 cluster.go:87] Name: aksw22d3200000n, clusterIP: 10.224.28.196, externalIP: , isSchedulable: true
+I0425 15:48:08.991920 1813110 cluster.go:87] Name: aksw22d3200000o, clusterIP: 10.224.11.30, externalIP: , isSchedulable: true
+I0425 15:48:08.991928 1813110 cluster.go:87] Name: aksw22d3200000p, clusterIP: 10.224.9.40, externalIP: , isSchedulable: true
+I0425 15:48:08.991936 1813110 cluster.go:87] Name: aksw22d3200000q, clusterIP: 10.224.34.166, externalIP: , isSchedulable: true
+I0425 15:48:08.991944 1813110 cluster.go:87] Name: aksw22d3200000r, clusterIP: 10.224.27.201, externalIP: , isSchedulable: true
+I0425 15:48:08.991953 1813110 cluster.go:87] Name: aksw22d3200000s, clusterIP: 10.224.37.151, externalIP: , isSchedulable: true
+I0425 15:48:08.991961 1813110 cluster.go:87] Name: aksw22d3200000t, clusterIP: 10.224.19.241, externalIP: , isSchedulable: true
+I0425 15:48:08.991968 1813110 cluster.go:87] Name: aksw22d3200000u, clusterIP: 10.224.51.81, externalIP: , isSchedulable: true
+I0425 15:48:08.991975 1813110 cluster.go:87] Name: aksw22d3200000v, clusterIP: 10.224.73.222, externalIP: , isSchedulable: true
+I0425 15:48:08.991982 1813110 cluster.go:87] Name: aksw22d3200000w, clusterIP: 10.224.24.216, externalIP: , isSchedulable: true
+I0425 15:48:08.991989 1813110 cluster.go:87] Name: aksw22d3200000x, clusterIP: 10.224.60.36, externalIP: , isSchedulable: true
+I0425 15:48:08.991997 1813110 cluster.go:87] Name: aksw22d3200000y, clusterIP: 10.224.70.237, externalIP: , isSchedulable: true
+I0425 15:48:08.992004 1813110 cluster.go:87] Name: aksw22d3200000z, clusterIP: 10.224.66.6, externalIP: , isSchedulable: true
+I0425 15:48:08.992011 1813110 cluster.go:87] Name: aksw22d32000010, clusterIP: 10.224.15.10, externalIP: , isSchedulable: true
+I0425 15:48:08.992018 1813110 cluster.go:87] Name: aksw22d32000011, clusterIP: 10.224.72.227, externalIP: , isSchedulable: true
+I0425 15:48:08.992026 1813110 cluster.go:87] Name: aksw22d32000012, clusterIP: 10.224.35.161, externalIP: , isSchedulable: true
+I0425 15:48:08.992036 1813110 cluster.go:87] Name: aksw22d32000013, clusterIP: 10.224.26.206, externalIP: , isSchedulable: true
+I0425 15:48:08.992044 1813110 cluster.go:87] Name: aksw22d32000014, clusterIP: 10.224.63.21, externalIP: , isSchedulable: true
+I0425 15:48:08.992049 1813110 cluster.go:87] Name: aksw22d32000015, clusterIP: 10.224.14.15, externalIP: , isSchedulable: true
+I0425 15:48:08.992060 1813110 cluster.go:87] Name: aksw22d32000016, clusterIP: 10.224.54.66, externalIP: , isSchedulable: true
+I0425 15:48:08.992067 1813110 cluster.go:87] Name: aksw22d32000017, clusterIP: 10.224.90.137, externalIP: , isSchedulable: true
+I0425 15:48:08.992075 1813110 cluster.go:87] Name: aksw22d32000018, clusterIP: 10.224.67.1, externalIP: , isSchedulable: true
+I0425 15:48:08.992082 1813110 cluster.go:87] Name: aksw22d32000019, clusterIP: 10.224.56.56, externalIP: , isSchedulable: true
+I0425 15:48:08.992091 1813110 cluster.go:87] Name: aksw22d3200001a, clusterIP: 10.224.100.87, externalIP: , isSchedulable: true
+I0425 15:48:08.992098 1813110 cluster.go:87] Name: aksw22d3200001b, clusterIP: 10.224.57.51, externalIP: , isSchedulable: true
+I0425 15:48:08.992106 1813110 cluster.go:87] Name: aksw22d3200001c, clusterIP: 10.224.74.217, externalIP: , isSchedulable: true
+I0425 15:48:08.992113 1813110 cluster.go:87] Name: aksw22d3200001d, clusterIP: 10.224.79.192, externalIP: , isSchedulable: true
+I0425 15:48:08.992121 1813110 cluster.go:87] Name: aksw22d3200001e, clusterIP: 10.224.78.197, externalIP: , isSchedulable: true
+I0425 15:48:08.992128 1813110 cluster.go:87] Name: aksw22d3200001f, clusterIP: 10.224.99.92, externalIP: , isSchedulable: true
+I0425 15:48:08.992137 1813110 cluster.go:87] Name: aksw22d3200001g, clusterIP: 10.224.82.177, externalIP: , isSchedulable: true
+I0425 15:48:08.992145 1813110 cluster.go:87] Name: aksw22d3200001h, clusterIP: 10.224.83.172, externalIP: , isSchedulable: true
+I0425 15:48:08.992154 1813110 cluster.go:87] Name: aksw22d3200001i, clusterIP: 10.224.98.97, externalIP: , isSchedulable: true
+I0425 15:48:08.992162 1813110 cluster.go:87] Name: aksw22d3200001j, clusterIP: 10.224.58.46, externalIP: , isSchedulable: true
+I0425 15:48:08.992170 1813110 cluster.go:87] Name: aksw22d3200001k, clusterIP: 10.224.86.157, externalIP: , isSchedulable: true
+I0425 15:48:08.992178 1813110 cluster.go:87] Name: aksw22d3200001l, clusterIP: 10.224.33.171, externalIP: , isSchedulable: true
+I0425 15:48:08.992187 1813110 cluster.go:87] Name: aksw22d3200001m, clusterIP: 10.224.87.152, externalIP: , isSchedulable: true
+I0425 15:48:08.992195 1813110 cluster.go:87] Name: aksw22d3200001n, clusterIP: 10.224.91.132, externalIP: , isSchedulable: true
+I0425 15:48:08.992204 1813110 cluster.go:87] Name: aksw22d3200001o, clusterIP: 10.224.88.147, externalIP: , isSchedulable: true
+I0425 15:48:08.992219 1813110 cluster.go:87] Name: aksw22d3200001p, clusterIP: 10.224.85.162, externalIP: , isSchedulable: true
+I0425 15:48:08.992227 1813110 cluster.go:87] Name: aksw22d3200001q, clusterIP: 10.224.84.167, externalIP: , isSchedulable: true
+I0425 15:48:08.992234 1813110 cluster.go:87] Name: aksw22d3200001r, clusterIP: 10.224.95.112, externalIP: , isSchedulable: true
+I0425 15:48:08.992242 1813110 cluster.go:87] Name: aksw22d3200001s, clusterIP: 10.224.22.226, externalIP: , isSchedulable: true
+I0425 15:48:08.992251 1813110 cluster.go:87] Name: aksw22d3200001t, clusterIP: 10.224.17.0, externalIP: , isSchedulable: true
+I0425 15:48:08.992258 1813110 cluster.go:87] Name: aksw22d3200001u, clusterIP: 10.224.20.236, externalIP: , isSchedulable: true
+I0425 15:48:08.992266 1813110 cluster.go:87] Name: aksw22d3200001v, clusterIP: 10.224.23.221, externalIP: , isSchedulable: true
+I0425 15:48:08.992273 1813110 cluster.go:87] Name: aksw22d3200001w, clusterIP: 10.224.18.246, externalIP: , isSchedulable: true
+I0425 15:48:08.992280 1813110 cluster.go:87] Name: aksw22d3200001x, clusterIP: 10.224.21.231, externalIP: , isSchedulable: true
+I0425 15:48:08.992287 1813110 cluster.go:87] Name: aksw22d3200001y, clusterIP: 10.224.39.141, externalIP: , isSchedulable: true
+I0425 15:48:08.992295 1813110 cluster.go:87] Name: aksw22d3200001z, clusterIP: 10.224.31.181, externalIP: , isSchedulable: true
+I0425 15:48:08.992303 1813110 cluster.go:87] Name: aksw22d32000020, clusterIP: 10.224.29.191, externalIP: , isSchedulable: true
+I0425 15:48:08.992311 1813110 cluster.go:87] Name: aksw22d32000021, clusterIP: 10.224.30.186, externalIP: , isSchedulable: true
+I0425 15:48:08.992324 1813110 cluster.go:87] Name: aksw22d32000022, clusterIP: 10.224.40.136, externalIP: , isSchedulable: true
+I0425 15:48:08.992332 1813110 cluster.go:87] Name: aksw22d32000023, clusterIP: 10.224.41.131, externalIP: , isSchedulable: true
+I0425 15:48:08.992341 1813110 cluster.go:87] Name: aksw22d32000024, clusterIP: 10.224.36.156, externalIP: , isSchedulable: true
+I0425 15:48:08.992348 1813110 cluster.go:87] Name: aksw22d32000025, clusterIP: 10.224.38.146, externalIP: , isSchedulable: true
+I0425 15:48:08.992356 1813110 cluster.go:87] Name: aksw22d32000026, clusterIP: 10.224.42.126, externalIP: , isSchedulable: true
+I0425 15:48:08.992366 1813110 cluster.go:87] Name: aksw22d32000027, clusterIP: 10.224.44.116, externalIP: , isSchedulable: true
+I0425 15:48:08.992374 1813110 cluster.go:87] Name: aksw22d32000028, clusterIP: 10.224.47.101, externalIP: , isSchedulable: true
+I0425 15:48:08.992382 1813110 cluster.go:87] Name: aksw22d32000029, clusterIP: 10.224.43.121, externalIP: , isSchedulable: true
+I0425 15:48:08.992390 1813110 cluster.go:87] Name: aksw22d3200002a, clusterIP: 10.224.53.71, externalIP: , isSchedulable: true
+I0425 15:48:08.992398 1813110 cluster.go:87] Name: aksw22d3200002b, clusterIP: 10.224.50.86, externalIP: , isSchedulable: true
+I0425 15:48:08.992405 1813110 cluster.go:87] Name: aksw22d3200002c, clusterIP: 10.224.49.91, externalIP: , isSchedulable: true
+I0425 15:48:08.992413 1813110 cluster.go:87] Name: aksw22d3200002d, clusterIP: 10.224.48.96, externalIP: , isSchedulable: true
+I0425 15:48:08.992420 1813110 cluster.go:87] Name: aksw22d3200002e, clusterIP: 10.224.59.41, externalIP: , isSchedulable: true
+I0425 15:48:08.992429 1813110 cluster.go:87] Name: aksw22d3200002f, clusterIP: 10.224.52.76, externalIP: , isSchedulable: true
+I0425 15:48:08.992436 1813110 cluster.go:87] Name: aksw22d3200002g, clusterIP: 10.224.75.212, externalIP: , isSchedulable: true
+I0425 15:48:08.992443 1813110 cluster.go:87] Name: aksw22d3200002h, clusterIP: 10.224.81.182, externalIP: , isSchedulable: true
+I0425 15:48:08.992451 1813110 cluster.go:87] Name: aksw22d3200002i, clusterIP: 10.224.92.127, externalIP: , isSchedulable: true
+I0425 15:48:08.992459 1813110 cluster.go:87] Name: aksw22d3200002j, clusterIP: 10.224.93.122, externalIP: , isSchedulable: true
+I0425 15:48:08.992467 1813110 cluster.go:87] Name: aksw22d3200002k, clusterIP: 10.224.77.202, externalIP: , isSchedulable: true
+I0425 15:48:08.992476 1813110 cluster.go:87] Name: aksw22d3200002l, clusterIP: 10.224.94.117, externalIP: , isSchedulable: true
+I0425 15:48:08.992483 1813110 cluster.go:87] Name: aksw22d3200002m, clusterIP: 10.224.68.247, externalIP: , isSchedulable: true
+I0425 15:48:08.992490 1813110 cluster.go:87] Name: aksw22d3200002n, clusterIP: 10.224.89.142, externalIP: , isSchedulable: true
+I0425 15:48:08.992497 1813110 cluster.go:87] Name: aksw22d3200002o, clusterIP: 10.224.62.26, externalIP: , isSchedulable: true
+I0425 15:48:08.992509 1813110 cluster.go:87] Name: aksw22d3200002p, clusterIP: 10.224.67.252, externalIP: , isSchedulable: true
+I0425 15:48:08.992517 1813110 cluster.go:87] Name: aksw22d3200002q, clusterIP: 10.224.64.16, externalIP: , isSchedulable: true
+I0425 15:48:08.992524 1813110 cluster.go:87] Name: aksw22d3200002r, clusterIP: 10.224.61.31, externalIP: , isSchedulable: true
+I0425 15:48:08.992531 1813110 cluster.go:87] Name: aksw22d3200002s, clusterIP: 10.224.101.100, externalIP: , isSchedulable: true
+I0425 15:48:09.119981 1813110 framework.go:74] Creating framework with 1 clients and "/home/oliviavuong/.kube/config" kubeconfig.
+I0425 15:48:09.224073 1813110 exec_service.go:80] Exec service: setting up service!
+I0425 15:48:09.515532 1813110 framework.go:276] Applying templates for "manifest/exec_deployment.yaml"
+I0425 15:48:09.516205 1813110 framework.go:287] Applying manifest/exec_deployment.yaml
+I0425 15:48:09.907412 1813110 wait_for_pods.go:64] Exec service: namespace(cluster-loader), labelSelector(feature = exec): starting with timeout: 1m59.899074565s
+I0425 15:48:19.912266 1813110 wait_for_pods.go:122] Exec service: namespace(cluster-loader), labelSelector(feature = exec): Pods: 3 out of 3 created, 0 running (0 updated), 3 pending scheduled, 0 not scheduled, 0 inactive, 0 terminating, 0 unknown, 0 runningButNotReady 
+I0425 15:50:09.833914 1813110 wait_for_pods.go:80] Exec service: namespace(cluster-loader), labelSelector(feature = exec): expected 3 pods, got 3 pods (not RunningAndReady pods: [{cluster-loader exec-pod-76d8fbd487-bpndn Pending PendingScheduled aksw22d3200001b} {cluster-loader exec-pod-76d8fbd487-tzxz7 Pending PendingScheduled aksw22d3200001p} {cluster-loader exec-pod-76d8fbd487-zb7gh Pending PendingScheduled aksw22d3200002d}])
+I0425 15:50:09.843494 1813110 wait_for_pods.go:81] Exec service: namespace(cluster-loader), labelSelector(feature = exec): all pods: [{cluster-loader exec-pod-76d8fbd487-bpndn Pending PendingScheduled aksw22d3200001b} {cluster-loader exec-pod-76d8fbd487-tzxz7 Pending PendingScheduled aksw22d3200001p} {cluster-loader exec-pod-76d8fbd487-zb7gh Pending PendingScheduled aksw22d3200002d}]
+I0425 15:50:09.843619 1813110 wait_for_pods.go:82] Exec service: namespace(cluster-loader), labelSelector(feature = exec): last IsPodUpdated error: <nil>
+F0425 15:50:09.845196 1813110 clusterloader.go:334] Error while setting up exec service: got context deadline exceeded while waiting for 3 pods to be running in namespace(cluster-loader), labelSelector(feature = exec) - summary of pods : Pods: 3 out of 3 created, 0 running (0 updated), 3 pending scheduled, 0 not scheduled, 0 inactive, 0 terminating, 0 unknown, 0 runningButNotReady 
+exit status 1

@@ -1,0 +1,307 @@
+name: density
+automanagednamespaces: 0
+namespace:
+  number: 20
+  prefix: test-pazfvc
+  deletestalenamespaces: false
+  deleteautomanagednamespaces: true
+  enableexistingnamespaces: false
+  deletenamespacetimeout: 600000000000
+steps:
+- phases: []
+  measurements:
+  - method: APIResponsivenessPrometheus
+    params:
+      action: start
+    identifier: APIResponsivenessPrometheus
+    instances: []
+  - method: APIResponsivenessPrometheus
+    params:
+      action: start
+    identifier: APIResponsivenessPrometheusSimple
+    instances: []
+  - method: InClusterNetworkLatency
+    params:
+      action: start
+      checkProbesReadyTimeout: 15m
+      replicasPerProbe: 3
+    identifier: InClusterNetworkLatency
+    instances: []
+  - method: DnsLookupLatency
+    params:
+      action: start
+      checkProbesReadyTimeout: 15m
+      replicasPerProbe: 3
+    identifier: DnsLookupLatency
+    instances: []
+  - method: TestMetrics
+    params:
+      action: start
+      clusterOOMsIgnoredProcesses: null
+      clusterOOMsTrackerEnabled: true
+      enableRestartCountCheck: true
+      resourceConstraints: null
+      restartCountThresholdOverrides: ""
+      systemPodMetricsEnabled: true
+    identifier: TestMetrics
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Starting measurements
+- phases: []
+  measurements:
+  - method: PodStartupLatency
+    params:
+      action: start
+      labelSelector: group = saturation
+      threshold: 330s
+    identifier: SaturationPodStartupLatency
+    instances: []
+  - method: WaitForControlledPodsRunning
+    params:
+      action: start
+      apiVersion: apps/v1
+      kind: Deployment
+      labelSelector: group = saturation
+      operationTimeout: 1200s
+    identifier: WaitForRunningSaturationDeployments
+    instances: []
+  - method: SchedulingThroughput
+    params:
+      action: start
+      labelSelector: group = saturation
+    identifier: SchedulingThroughput
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Starting saturation pod measurements
+- phases:
+  - namespacerange:
+      min: 1
+      max: 20
+      basename: null
+    namespacelist: []
+    replicaspernamespace: 1
+    tuningset: Uniform5qps
+    objectbundle:
+    - basename: saturation-deployment
+      objecttemplatepath: deployment.yaml
+      templatefillmap:
+        CpuRequest: 1m
+        Group: saturation
+        MemoryRequest: 10M
+        Replicas: 150
+      listunknownobjectoptions: null
+  measurements: []
+  module:
+    path: ""
+    params: {}
+  name: Creating saturation pods
+- phases: []
+  measurements:
+  - method: WaitForControlledPodsRunning
+    params:
+      action: gather
+    identifier: WaitForRunningSaturationDeployments
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Waiting for saturation pods to be running
+- phases: []
+  measurements:
+  - method: PodStartupLatency
+    params:
+      action: gather
+    identifier: SaturationPodStartupLatency
+    instances: []
+  - method: SchedulingThroughput
+    params:
+      action: gather
+      enableViolations: true
+      threshold: 0
+    identifier: SchedulingThroughput
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Collecting saturation pod measurements
+- phases: []
+  measurements:
+  - method: PodStartupLatency
+    params:
+      action: start
+      labelSelector: group = latency
+    identifier: PodStartupLatency
+    instances: []
+  - method: WaitForControlledPodsRunning
+    params:
+      action: start
+      apiVersion: apps/v1
+      kind: Deployment
+      labelSelector: group = latency
+      operationTimeout: 15m
+    identifier: WaitForRunningLatencyDeployments
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Starting latency pod measurements
+- phases:
+  - namespacerange:
+      min: 1
+      max: 20
+      basename: null
+    namespacelist: []
+    replicaspernamespace: 25
+    tuningset: Uniform5qps
+    objectbundle:
+    - basename: latency-deployment
+      objecttemplatepath: deployment.yaml
+      templatefillmap:
+        CpuRequest: 100m
+        Group: latency
+        MemoryRequest: 350M
+        Replicas: 1
+      listunknownobjectoptions: null
+  measurements: []
+  module:
+    path: ""
+    params: {}
+  name: Creating latency pods
+- phases: []
+  measurements:
+  - method: WaitForControlledPodsRunning
+    params:
+      action: gather
+    identifier: WaitForRunningLatencyDeployments
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Waiting for latency pods to be running
+- phases:
+  - namespacerange:
+      min: 1
+      max: 20
+      basename: null
+    namespacelist: []
+    replicaspernamespace: 0
+    tuningset: Uniform5qps
+    objectbundle:
+    - basename: latency-deployment
+      objecttemplatepath: deployment.yaml
+      templatefillmap: {}
+      listunknownobjectoptions: null
+  measurements: []
+  module:
+    path: ""
+    params: {}
+  name: Deleting latency pods
+- phases: []
+  measurements:
+  - method: WaitForControlledPodsRunning
+    params:
+      action: gather
+    identifier: WaitForRunningLatencyDeployments
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Waiting for latency pods to be deleted
+- phases: []
+  measurements:
+  - method: PodStartupLatency
+    params:
+      action: gather
+    identifier: PodStartupLatency
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Collecting pod startup latency
+- phases:
+  - namespacerange:
+      min: 1
+      max: 20
+      basename: null
+    namespacelist: []
+    replicaspernamespace: 0
+    tuningset: Uniform5qps
+    objectbundle:
+    - basename: saturation-deployment
+      objecttemplatepath: deployment.yaml
+      templatefillmap: {}
+      listunknownobjectoptions: null
+  measurements: []
+  module:
+    path: ""
+    params: {}
+  name: Deleting saturation pods
+- phases: []
+  measurements:
+  - method: WaitForControlledPodsRunning
+    params:
+      action: gather
+    identifier: WaitForRunningSaturationDeployments
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Waiting for saturation pods to be deleted
+- phases: []
+  measurements:
+  - method: APIResponsivenessPrometheus
+    params:
+      action: gather
+      allowedSlowCalls: 0
+      enableViolations: true
+      summaryName: APIResponsivenessPrometheus_simple
+      useSimpleLatencyQuery: true
+    identifier: APIResponsivenessPrometheusSimple
+    instances: []
+  - method: APIResponsivenessPrometheus
+    params:
+      action: gather
+      allowedSlowCalls: 0
+    identifier: APIResponsivenessPrometheus
+    instances: []
+  - method: InClusterNetworkLatency
+    params:
+      action: gather
+    identifier: InClusterNetworkLatency
+    instances: []
+  - method: DnsLookupLatency
+    params:
+      action: gather
+    identifier: DnsLookupLatency
+    instances: []
+  - method: TestMetrics
+    params:
+      action: gather
+      clusterOOMsTrackerEnabled: true
+      enableRestartCountCheck: true
+      restartCountThresholdOverrides: ""
+      systemPodMetricsEnabled: true
+    identifier: TestMetrics
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Collecting measurements
+tuningsets:
+- name: Uniform5qps
+  initialdelay: 0
+  qpsload:
+    qps: 5
+  randomizedload: null
+  steppedload: null
+  timelimitedload: null
+  randomizedtimelimitedload: null
+  parallelismlimitedload: null
+  globalqpsload: null
+chaosmonkey:
+  nodefailure: null
+  excludednodes: {}

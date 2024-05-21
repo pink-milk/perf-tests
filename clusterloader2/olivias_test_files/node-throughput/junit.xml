@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <testsuite name="ClusterLoaderV2" tests="0" failures="2" errors="0" time="124.007">
+      <testcase name="node-throughput overall (/home/oliviavuong/clusterloader2/cl2_linux/perf-tests/clusterloader2/testing/node-throughput/config.yaml)" classname="ClusterLoaderV2" time="124.000569877">
+          <failure type="Failure">:0&#xA;[measurement call PodStartupLatency - PodStartupLatency error: pod startup: too high latency 90th percentile: got 7.951842122s expected: 5s]&#xA;:0</failure>
+      </testcase>
+      <testcase name="node-throughput: [step: 01] Starting measurements [00] - APIResponsivenessPrometheusSimple" classname="ClusterLoaderV2" time="0.31621417"></testcase>
+      <testcase name="node-throughput: [step: 01] Starting measurements [01] - PodStartupLatency" classname="ClusterLoaderV2" time="0.416593082"></testcase>
+      <testcase name="node-throughput: [step: 02] Starting pods measurements [00] - WaitForRunningLatencyRCs" classname="ClusterLoaderV2" time="0.878553908"></testcase>
+      <testcase name="node-throughput: [step: 03] Creating pods" classname="ClusterLoaderV2" time="20.132010935"></testcase>
+      <testcase name="node-throughput: [step: 04] Waiting for pods to be running [00] - WaitForRunningLatencyRCs" classname="ClusterLoaderV2" time="47.791918274"></testcase>
+      <testcase name="node-throughput: [step: 05] Deleting pods" classname="ClusterLoaderV2" time="20.111051109"></testcase>
+      <testcase name="node-throughput: [step: 06] Waiting for pods to be deleted [00] - WaitForRunningLatencyRCs" classname="ClusterLoaderV2" time="9.469679015"></testcase>
+      <testcase name="node-throughput: [step: 07] Collecting pods measurements [00] - PodStartupLatency" classname="ClusterLoaderV2" time="0.454970417">
+          <failure type="Failure">:0&#xA;[measurement call PodStartupLatency - PodStartupLatency error: pod startup: too high latency 90th percentile: got 7.951842122s expected: 5s]&#xA;:0</failure>
+      </testcase>
+      <testcase name="node-throughput: [step: 08] Collecting measurements [00] - APIResponsivenessPrometheusSimple" classname="ClusterLoaderV2" time="0.076902845"></testcase>
+  </testsuite>

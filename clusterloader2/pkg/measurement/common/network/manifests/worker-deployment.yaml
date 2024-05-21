@@ -16,6 +16,8 @@ spec:
         group: network
         name: worker
     spec:
+      nodeSelector:
+        kubernetes.io/os: linux
       containers:
       - image: gcr.io/k8s-testimages/netperfbenchmark:0.3
         name: worker
@@ -42,4 +44,5 @@ spec:
         - name: logs-volume
           hostPath:
             path: /var/log
+        
 

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <testsuite name="ClusterLoaderV2" tests="0" failures="0" errors="0" time="69.902">
+      <testcase name="network_performance overall (/home/oliviavuong/clusterloader2/cl2_linux/perf-tests/clusterloader2/testing/network/config.yaml)" classname="ClusterLoaderV2" time="69.897578528"></testcase>
+      <testcase name="network_performance: [step: 01] Start network performance measurement [00] - NetworkPerformanceMetrics" classname="ClusterLoaderV2" time="13.312459347"></testcase>
+      <testcase name="network_performance: [step: 02] Gather network performance measurement [00] - NetworkPerformanceMetrics" classname="ClusterLoaderV2" time="45.503992023"></testcase>
+  </testsuite>

@@ -1,0 +1,143 @@
+name: node-throughput
+automanagednamespaces: 0
+namespace:
+  number: 100
+  prefix: test-08s2vs
+  deletestalenamespaces: false
+  deleteautomanagednamespaces: true
+  enableexistingnamespaces: false
+  deletenamespacetimeout: 600000000000
+steps:
+- phases: []
+  measurements:
+  - method: APIResponsivenessPrometheus
+    params:
+      action: start
+    identifier: APIResponsivenessPrometheusSimple
+    instances: []
+  - method: PodStartupLatency
+    params:
+      action: start
+      labelSelector: group = latency
+      threshold: 5s
+    identifier: PodStartupLatency
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Starting measurements
+- phases: []
+  measurements:
+  - method: WaitForControlledPodsRunning
+    params:
+      action: start
+      apiVersion: v1
+      kind: ReplicationController
+      labelSelector: group = latency
+      operationTimeout: 15m
+    identifier: WaitForRunningLatencyRCs
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Starting pods measurements
+- phases:
+  - namespacerange:
+      min: 1
+      max: 100
+      basename: null
+    namespacelist: []
+    replicaspernamespace: 1
+    tuningset: UniformQPS
+    objectbundle:
+    - basename: latency-pod-rc
+      objecttemplatepath: rc.yaml
+      templatefillmap:
+        Group: latency
+        Image: mcr.microsoft.com/windows/servercore:ltsc2022
+        Replicas: 1
+      listunknownobjectoptions: null
+  measurements: []
+  module:
+    path: ""
+    params: {}
+  name: Creating pods
+- phases: []
+  measurements:
+  - method: WaitForControlledPodsRunning
+    params:
+      action: gather
+    identifier: WaitForRunningLatencyRCs
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Waiting for pods to be running
+- phases:
+  - namespacerange:
+      min: 1
+      max: 100
+      basename: null
+    namespacelist: []
+    replicaspernamespace: 0
+    tuningset: UniformQPS
+    objectbundle:
+    - basename: latency-pod-rc
+      objecttemplatepath: rc.yaml
+      templatefillmap: {}
+      listunknownobjectoptions: null
+  measurements: []
+  module:
+    path: ""
+    params: {}
+  name: Deleting pods
+- phases: []
+  measurements:
+  - method: WaitForControlledPodsRunning
+    params:
+      action: gather
+    identifier: WaitForRunningLatencyRCs
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Waiting for pods to be deleted
+- phases: []
+  measurements:
+  - method: PodStartupLatency
+    params:
+      action: gather
+    identifier: PodStartupLatency
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Collecting pods measurements
+- phases: []
+  measurements:
+  - method: APIResponsivenessPrometheus
+    params:
+      action: gather
+      enableViolations: true
+      summaryName: APIResponsivenessPrometheus_simple
+      useSimpleLatencyQuery: true
+    identifier: APIResponsivenessPrometheusSimple
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Collecting measurements
+tuningsets:
+- name: UniformQPS
+  initialdelay: 0
+  qpsload:
+    qps: 5
+  randomizedload: null
+  steppedload: null
+  timelimitedload: null
+  randomizedtimelimitedload: null
+  parallelismlimitedload: null
+  globalqpsload: null
+chaosmonkey:
+  nodefailure: null
+  excludednodes: {}
