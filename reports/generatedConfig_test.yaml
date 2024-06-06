@@ -1,0 +1,87 @@
+name: test
+automanagednamespaces: 0
+namespace:
+  number: 1
+  prefix: test-9fc7pn
+  deletestalenamespaces: false
+  deleteautomanagednamespaces: true
+  enableexistingnamespaces: false
+  deletenamespacetimeout: 600000000000
+steps:
+- phases: []
+  measurements:
+  - method: PodStartupLatency
+    params:
+      action: start
+      labelSelector: group = test-pod
+      threshold: 20s
+    identifier: PodStartupLatency
+    instances: []
+  - method: WaitForControlledPodsRunning
+    params:
+      action: start
+      apiVersion: apps/v1
+      kind: Deployment
+      labelSelector: group = test-deployment
+      operationTimeout: 120s
+    identifier: WaitForControlledPodsRunning
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Start measurements
+- phases:
+  - namespacerange:
+      min: 1
+      max: 1
+      basename: null
+    namespacelist: []
+    replicaspernamespace: 1
+    tuningset: Uniform1qps
+    objectbundle:
+    - basename: test-deployment
+      objecttemplatepath: deployment.yaml
+      templatefillmap:
+        Replicas: 10
+      listunknownobjectoptions: null
+  measurements: []
+  module:
+    path: ""
+    params: {}
+  name: Create deployment
+- phases: []
+  measurements:
+  - method: WaitForControlledPodsRunning
+    params:
+      action: gather
+    identifier: WaitForControlledPodsRunning
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Wait for pods to be running
+- phases: []
+  measurements:
+  - method: PodStartupLatency
+    params:
+      action: gather
+    identifier: PodStartupLatency
+    instances: []
+  module:
+    path: ""
+    params: {}
+  name: Measure pod startup latency
+tuningsets:
+- name: Uniform1qps
+  initialdelay: 0
+  qpsload:
+    qps: 1
+  randomizedload: null
+  steppedload: null
+  timelimitedload: null
+  randomizedtimelimitedload: null
+  parallelismlimitedload: null
+  globalqpsload: null
+chaosmonkey:
+  nodefailure: null
+  excludednodes: {}

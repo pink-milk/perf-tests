@@ -1,0 +1,7169 @@
+{
+  "pods": [
+    {
+      "name": "ama-logs-2zrln",
+      "containers": [
+        {
+          "name": "addon-token-adapter",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-prometheus",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-447qw",
+      "containers": [
+        {
+          "name": "addon-token-adapter",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-prometheus",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-bpxwk",
+      "containers": [
+        {
+          "name": "addon-token-adapter",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-prometheus",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-gjqkt",
+      "containers": [
+        {
+          "name": "addon-token-adapter",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-prometheus",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-hwhn5",
+      "containers": [
+        {
+          "name": "addon-token-adapter",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-prometheus",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-k466s",
+      "containers": [
+        {
+          "name": "addon-token-adapter",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-prometheus",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-m86nj",
+      "containers": [
+        {
+          "name": "addon-token-adapter",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-prometheus",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-mqqdj",
+      "containers": [
+        {
+          "name": "addon-token-adapter",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-prometheus",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-p694m",
+      "containers": [
+        {
+          "name": "addon-token-adapter",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-prometheus",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-rbrk2",
+      "containers": [
+        {
+          "name": "addon-token-adapter",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-prometheus",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-rs-7894cc86f5-xm6wb",
+      "containers": [
+        {
+          "name": "addon-token-adapter",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-t2vz8",
+      "containers": [
+        {
+          "name": "addon-token-adapter",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-prometheus",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-ts6bx",
+      "containers": [
+        {
+          "name": "addon-token-adapter",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-prometheus",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-w24js",
+      "containers": [
+        {
+          "name": "addon-token-adapter",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-prometheus",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-w2v95",
+      "containers": [
+        {
+          "name": "addon-token-adapter",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-prometheus",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-26wsl",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-28lwt",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-2hp8l",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-2qdnk",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-4nvz4",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-4pj2z",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-54hfp",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-59v28",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-5g7m2",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-5xg27",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-67qx2",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-6fh78",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-6g2lm",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-6ktmb",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-6nw24",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-6sqp6",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-6zdhz",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-79xnj",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-84xjx",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-89bbx",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-8bsn7",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-8f5bs",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-8mshm",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-8npnt",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-8rbqq",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-94fml",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-98s2d",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-9nppn",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-9tktd",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-9w9g2",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-bh7fr",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-bn8wq",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-bnmgp",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-bx2tk",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-cczhb",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-cdntd",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-crsfz",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-dpwmg",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-f89zp",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-fwqwr",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-fwx2s",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-g5bwl",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-gg7jg",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-gjt4d",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-gsm7d",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-hcjzs",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-hqbmx",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-hwwgb",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-hzxvt",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-jsclh",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-k24bk",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-kl7nt",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-ksx8m",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-kw9h7",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-l4t5g",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-lc85q",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-ljlpx",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-lw7pb",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-md8qp",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-mgh5g",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-ndq5n",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-npwfj",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-p8wtt",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-pb7zv",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-pbhg4",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-pgb5j",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-ph7nd",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-pzz25",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-q4nfc",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-q8vzh",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-qdfdx",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-qjpjg",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-r7vzk",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-s9phn",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-s9pqn",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-srql9",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-ss29x",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-t4t8r",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-t4v9z",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-t57vz",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-t8k6n",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-tg5v6",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-tnprw",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-v8bw5",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-v8dml",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-vmhkp",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-vn6hh",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-vr9vj",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-vshd5",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-wbf4t",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-wjnbd",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-wz5vp",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-x752j",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-xcjks",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-xjf72",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-z29tm",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-z7rth",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-z9lxp",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-zlmcs",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-windows-ztsrx",
+      "containers": [
+        {
+          "name": "addon-token-adapter-win",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-windows",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "ama-logs-wwrw6",
+      "containers": [
+        {
+          "name": "addon-token-adapter",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "ama-logs-prometheus",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-ip-masq-agent-4q9vs",
+      "containers": [
+        {
+          "name": "azure-ip-masq-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-ip-masq-agent-5bj8d",
+      "containers": [
+        {
+          "name": "azure-ip-masq-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-ip-masq-agent-8hzw7",
+      "containers": [
+        {
+          "name": "azure-ip-masq-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-ip-masq-agent-cpmzl",
+      "containers": [
+        {
+          "name": "azure-ip-masq-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-ip-masq-agent-ghx7p",
+      "containers": [
+        {
+          "name": "azure-ip-masq-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-ip-masq-agent-hvg8v",
+      "containers": [
+        {
+          "name": "azure-ip-masq-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-ip-masq-agent-m98r8",
+      "containers": [
+        {
+          "name": "azure-ip-masq-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-ip-masq-agent-nbcks",
+      "containers": [
+        {
+          "name": "azure-ip-masq-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-ip-masq-agent-nkwjf",
+      "containers": [
+        {
+          "name": "azure-ip-masq-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-ip-masq-agent-q6bx5",
+      "containers": [
+        {
+          "name": "azure-ip-masq-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-ip-masq-agent-qjmgd",
+      "containers": [
+        {
+          "name": "azure-ip-masq-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-ip-masq-agent-qtd9r",
+      "containers": [
+        {
+          "name": "azure-ip-masq-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-ip-masq-agent-s8zqx",
+      "containers": [
+        {
+          "name": "azure-ip-masq-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-ip-masq-agent-vnmqj",
+      "containers": [
+        {
+          "name": "azure-ip-masq-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-ip-masq-agent-zj24h",
+      "containers": [
+        {
+          "name": "azure-ip-masq-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-wi-webhook-controller-manager-7585698f56-6dxpf",
+      "containers": [
+        {
+          "name": "manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "azure-wi-webhook-controller-manager-7585698f56-cpv8f",
+      "containers": [
+        {
+          "name": "manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-2dtnm",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-54ndk",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-b9f2c",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-bq5zp",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-dv2vd",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-dwjql",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-m7mfd",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-q4qvt",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-s2hr8",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-s5tzc",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-st9ks",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-tbfrd",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-vfjt4",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-2dfss",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-2jfmk",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-2p4g5",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-47vhm",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-4dsvr",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-4x4h4",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-5ffnz",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-5fqg8",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-5nvw4",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-5rmfd",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-6msvp",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-6vk6t",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-6xrn9",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-7d5sw",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-7grzq",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-7kt8r",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-7mdzr",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-7mj8q",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-8f6kh",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-8fs2p",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-8k88k",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-984b4",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-9jjsg",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-9s85t",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-b8mdc",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-b8wb4",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-bfks6",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-bl6dg",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-bn8fs",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-bskpm",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-bxd9f",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-cbfnl",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-cfvgx",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-cgc2q",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-cwk5x",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-dc5rf",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-dhsh2",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-dvpj9",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-dztgb",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-f45fx",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-g68sv",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-j2krm",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-jwvz2",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-kjbw4",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-kjf2m",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-kpfrq",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-l8hmk",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-lmrfj",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-lqbzv",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-m48wp",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-mn9bc",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-mqql5",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-mvpkw",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-mwsnn",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-mxw65",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-n8fg9",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-nxscp",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-nzzgt",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-p45pd",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-p86xd",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-pcw8n",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-pf2tv",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-phtqh",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-pndtt",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-px6qt",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-q4td4",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-qcnrc",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-qcp85",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-qf6zv",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-qkgr5",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-rflb2",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-rlzn5",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-rpwb4",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-s2k7l",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-skm7m",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-sqrfc",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-t2q8s",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-t2sgn",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-v2gc6",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-v9q54",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-vcznq",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-vl5jt",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-vph6t",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-w8xjm",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-w9cvh",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-wczll",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-wvss7",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-xdnmq",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-xfr2x",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-xnw9n",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-xpmm5",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-xrlsq",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-z6xlz",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-zdpqz",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-zf5zm",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-zhf2x",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-zmg5k",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-zp9wn",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-zwt8m",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-windows-zww4x",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-x9q57",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "cloud-node-manager-zzr4k",
+      "containers": [
+        {
+          "name": "cloud-node-manager",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "coredns-5b97789cf4-6gndj",
+      "containers": [
+        {
+          "name": "coredns",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "coredns-5b97789cf4-gzccz",
+      "containers": [
+        {
+          "name": "coredns",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "coredns-5b97789cf4-n4dfl",
+      "containers": [
+        {
+          "name": "coredns",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "coredns-5b97789cf4-td7lf",
+      "containers": [
+        {
+          "name": "coredns",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "coredns-5b97789cf4-z49jw",
+      "containers": [
+        {
+          "name": "coredns",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "coredns-autoscaler-c6649b67c-qn8vb",
+      "containers": [
+        {
+          "name": "autoscaler",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-2qwpv",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-4m78k",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-d48l7",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-h96l8",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-hh5qk",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-k5bcr",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-klkfz",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-knbmj",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-q8qr4",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-r8q7n",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-2cxj7",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-2j5r6",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-2lj4x",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-2ts6r",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-2zm5j",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-47gk8",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-47n7m",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-4f749",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-4gb69",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-4gxmf",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-67nd4",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-68gj2",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-69xxc",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-6kq75",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-6kqcs",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-6mn8n",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-7tmfp",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-7w5dm",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-7wdnv",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-85wjs",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-88v6c",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-8c5xh",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-8hfs5",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-8pqkl",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-8q549",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-8w5zs",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-8wznx",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-9hchj",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-9pjx9",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-9q4kj",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-b5xpg",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-b6xlg",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-bkpp4",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-bnzk9",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-bprlc",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-c8lb2",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-cf567",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-ck56k",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-dg5qq",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-dln49",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-dmbjz",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-dxn2c",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-f4bfd",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-fw8g6",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-g4d76",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-g6wtx",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-gh262",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-gqh5f",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-h8zjl",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-hx56f",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-hxpk8",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-jhwh5",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-jnfjr",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-jxwv5",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-kgn8q",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-klv2p",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-kr6ph",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-kvxlb",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-kz65p",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-l4pl5",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-lffhl",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-lfr5d",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-lth2g",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-ltx2p",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-lzr7m",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-m82nw",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-m8jn4",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-n9rds",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-ndntk",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-ngnzh",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-ntsj7",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-p8g9s",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-p8wnl",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-pb9gl",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-pnp2l",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-q7csk",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-q7xt6",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-r9w2l",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-rf5gf",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-rp8fr",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-rwqnt",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-sd7g7",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-sdxc6",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-shqt5",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-sjr9n",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-tpz8s",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-vcbtf",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-vwp2s",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-vxkff",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-w2ht6",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-wfc88",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-wg69x",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-wljtr",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-wplp5",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-x5h4n",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-xbkh5",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-z5xrw",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-z87hb",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-z8shv",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-win-zw94r",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-wz2bm",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-x5nfd",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-x8m25",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-z45qz",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azuredisk-node-zdzc6",
+      "containers": [
+        {
+          "name": "azuredisk",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-4pzcl",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-5vrp4",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-649bx",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-bnfbr",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-d98rm",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-gks2h",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-jgbxf",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-nhqqb",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-rp4tq",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-s66lk",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-tkwdh",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-w2ld5",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-wb6nl",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-28m2w",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-2vcbn",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-48l4n",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-49jzm",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-4fkq4",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-4frrv",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-4hdnb",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-4sql9",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-4t2ns",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-5k5qq",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-5v8zf",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-64n69",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-6fc4g",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-6xhg8",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-765fp",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-7klkl",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-7pwvm",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-7rsg6",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-7xrfn",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-8csn4",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-8nhtz",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-8pnxl",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-8qd4q",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-94njp",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-98hnj",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-99nfw",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-9gdjc",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-9hqt8",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-9n2xn",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-b25j8",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-b45nr",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-b62l6",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-b6d5w",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-bj9gg",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-blgfk",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-bph28",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-bzzcv",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-c22xz",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-cf5d2",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-ch2dl",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-cs6vv",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-ddlrd",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-f477w",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-f5869",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-f7dq6",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-fj7lw",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-fpx5h",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-fsjqt",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-fx64h",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-gnwc5",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-gzrnv",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-hhb6k",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-hpwjw",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-j55hl",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-j58f2",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-j5czh",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-k9lxz",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-kh6wr",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-kvqcv",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-lcpwz",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-lnhgg",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-lv8nq",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-m5w98",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-m9hsb",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-m9qzh",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-np4tn",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-nrnw6",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-p42n7",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-pm69q",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-pszrt",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-px9q6",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-q7v85",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-qdh6g",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-qkm8w",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-qs4qj",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-qt82d",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-r25nv",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-r27fz",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-r4g6n",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-r9b54",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-rh8qt",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-rkgc6",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-rmlrr",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-sbd4w",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-scdn6",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-scrbj",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": "\u0026ContainerStateTerminated{ExitCode:1,Signal:0,Reason:Error,Message:,StartedAt:2024-06-04 11:58:48 -0700 PDT,FinishedAt:2024-06-04 11:59:21 -0700 PDT,ContainerID:containerd://dd228882e441e9c67ebdc8ccceaa28f08b1ac018153a198b3f376dc36b4d55c9,}"
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-sgjvk",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-sw7cj",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-t45jr",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-ts54x",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-vch6w",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-vdfb4",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-vsztf",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-w6ndz",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-w84d5",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-wm72r",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-x4r2w",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-xhr89",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-zcdgz",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-win-zsjbh",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-xxqnv",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "csi-azurefile-node-zwm28",
+      "containers": [
+        {
+          "name": "azurefile",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "liveness-probe",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "node-driver-registrar",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "konnectivity-agent-6855dc864f-7kt5f",
+      "containers": [
+        {
+          "name": "konnectivity-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "konnectivity-agent-6855dc864f-qblwc",
+      "containers": [
+        {
+          "name": "konnectivity-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "konnectivity-agent-6855dc864f-t6tdc",
+      "containers": [
+        {
+          "name": "konnectivity-agent",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "konnectivity-agent-autoscaler-776b6f7955-xl5vx",
+      "containers": [
+        {
+          "name": "autoscaler",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "kube-proxy-4j6ds",
+      "containers": [
+        {
+          "name": "kube-proxy",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "kube-proxy-4rvdw",
+      "containers": [
+        {
+          "name": "kube-proxy",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "kube-proxy-6wdzx",
+      "containers": [
+        {
+          "name": "kube-proxy",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "kube-proxy-76j75",
+      "containers": [
+        {
+          "name": "kube-proxy",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "kube-proxy-78g7s",
+      "containers": [
+        {
+          "name": "kube-proxy",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "kube-proxy-8st4l",
+      "containers": [
+        {
+          "name": "kube-proxy",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "kube-proxy-9gj69",
+      "containers": [
+        {
+          "name": "kube-proxy",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "kube-proxy-dslf6",
+      "containers": [
+        {
+          "name": "kube-proxy",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "kube-proxy-mblxl",
+      "containers": [
+        {
+          "name": "kube-proxy",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "kube-proxy-mlz4r",
+      "containers": [
+        {
+          "name": "kube-proxy",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "kube-proxy-rc4zn",
+      "containers": [
+        {
+          "name": "kube-proxy",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "kube-proxy-rpzdr",
+      "containers": [
+        {
+          "name": "kube-proxy",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "kube-proxy-tkcsc",
+      "containers": [
+        {
+          "name": "kube-proxy",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "kube-proxy-v6hkt",
+      "containers": [
+        {
+          "name": "kube-proxy",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "kube-proxy-zppt7",
+      "containers": [
+        {
+          "name": "kube-proxy",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "metrics-server-5485d6b756-gfrhb",
+      "containers": [
+        {
+          "name": "metrics-server",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "metrics-server-vpa",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "metrics-server-5485d6b756-lm7sf",
+      "containers": [
+        {
+          "name": "metrics-server",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        },
+        {
+          "name": "metrics-server-vpa",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "nmi-4qrwt",
+      "containers": [
+        {
+          "name": "nmi",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "nmi-5dpg9",
+      "containers": [
+        {
+          "name": "nmi",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "nmi-5kdvd",
+      "containers": [
+        {
+          "name": "nmi",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "nmi-5rnzl",
+      "containers": [
+        {
+          "name": "nmi",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "nmi-666h8",
+      "containers": [
+        {
+          "name": "nmi",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "nmi-7vh86",
+      "containers": [
+        {
+          "name": "nmi",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "nmi-87226",
+      "containers": [
+        {
+          "name": "nmi",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "nmi-hk6db",
+      "containers": [
+        {
+          "name": "nmi",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "nmi-kbr4j",
+      "containers": [
+        {
+          "name": "nmi",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "nmi-lzffj",
+      "containers": [
+        {
+          "name": "nmi",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "nmi-pfttv",
+      "containers": [
+        {
+          "name": "nmi",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "nmi-qr6x9",
+      "containers": [
+        {
+          "name": "nmi",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "nmi-snfml",
+      "containers": [
+        {
+          "name": "nmi",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "nmi-x7hpf",
+      "containers": [
+        {
+          "name": "nmi",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    },
+    {
+      "name": "nmi-z4x5m",
+      "containers": [
+        {
+          "name": "nmi",
+          "restartCount": 0,
+          "lastRestartReason": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "namespace": "test-d1cn1e-1",
+    "controlledBy": "test-d1cn1e-1/daemonset-0",
+    "name": "daemonset-0-q6zr8",
+    "host": "aksss25d4000000",
+    "status": "PendingScheduled"
+  }
+]

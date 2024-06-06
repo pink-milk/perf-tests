@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <testsuite name="ClusterLoaderV2" tests="0" failures="4" errors="0" time="3946.809">
+      <testcase name="load overall (/home/oliviavuong/clusterloader2/cl2_linux/perf-tests/clusterloader2/olivias_test_files/load/test/load-og/config.yaml)" classname="ClusterLoaderV2" time="3946.623232959">
+          <failure type="Failure">:0&#xA;[measurement call SchedulingThroughput - SchedulingThroughput error: scheduler throughput: actual throughput 31.000000 lower than threshold 100.000000&#xA;measurement call PodStartupLatency - PodStartupLatency error: pod startup: too high latency 50th percentile: got 9.480957989s expected: 5s&#xA;measurement call TestMetrics - TestMetrics error: [action gather failed for SystemPodMetrics measurement: restart counts violation: RestartCount(ama-logs-rs-646684b546-zrp2b, ama-logs)=1, want &lt;= 0&#xA;action gather failed for ClusterOOMsTracker measurement: OOMs recorded: [{Node:aks-nodepool1-28855832-vmss000000 Process:mdsd ProcessMemory:1683172kB ProcessID:1808176 Time:2024-05-30 15:55:19 -0700 PDT} {Node:aks-nodepool1-28855832-vmss000000 Process:main.sh ProcessMemory:4740kB ProcessID:1808079 Time:2024-05-30 15:55:19 -0700 PDT} {Node:aks-nodepool1-28855832-vmss000000 Process:inotifywait ProcessMemory:2828kB ProcessID:1808100 Time:2024-05-30 15:55:19 -0700 PDT} {Node:aks-nodepool1-28855832-vmss000000 Process:crond ProcessMemory:4548kB ProcessID:1808168 Time:2024-05-30 15:55:19 -0700 PDT} {Node:aks-nodepool1-28855832-vmss000000 Process:mdsd ProcessMemory:1683172kB ProcessID:1808176 Time:2024-05-30 15:55:19 -0700 PDT} {Node:aks-nodepool1-28855832-vmss000000 Process:fluentd ProcessMemory:181888kB ProcessID:1808417 Time:2024-05-30 15:55:19 -0700 PDT} {Node:aks-nodepool1-28855832-vmss000000 Process:fluent-bit ProcessMemory:853292kB ProcessID:1808418 Time:2024-05-30 15:55:19 -0700 PDT} {Node:aks-nodepool1-28855832-vmss000000 Process:sleep ProcessMemory:3624kB ProcessID:1808442 Time:2024-05-30 15:55:19 -0700 PDT} {Node:aks-nodepool1-28855832-vmss000000 Process:ruby ProcessMemory:738668kB ProcessID:1808447 Time:2024-05-30 15:55:19 -0700 PDT}]]]&#xA;:0</failure>
+      </testcase>
+      <testcase name="load: [step: 01] starting measurements [00] - APIResponsivenessPrometheus" classname="ClusterLoaderV2" time="0.303609555"></testcase>
+      <testcase name="load: [step: 01] starting measurements [01] - APIResponsivenessPrometheusSimple" classname="ClusterLoaderV2" time="0.303774025"></testcase>
+      <testcase name="load: [step: 01] starting measurements [02] - CreatePhasePodStartupLatency" classname="ClusterLoaderV2" time="0.46915341"></testcase>
+      <testcase name="load: [step: 01] starting measurements [03] - InClusterNetworkLatency" classname="ClusterLoaderV2" time="0.302970197"></testcase>
+      <testcase name="load: [step: 01] starting measurements [04] - SLOMeasurement" classname="ClusterLoaderV2" time="0.302997612"></testcase>
+      <testcase name="load: [step: 01] starting measurements [05] - NetworkProgrammingLatency" classname="ClusterLoaderV2" time="0.302990877"></testcase>
+      <testcase name="load: [step: 01] starting measurements [06] - Kube-proxy partial iptables restore failures" classname="ClusterLoaderV2" time="0.303929941"></testcase>
+      <testcase name="load: [step: 01] starting measurements [07] - TestMetrics" classname="ClusterLoaderV2" time="3.009379426"></testcase>
+      <testcase name="load: [step: 02] Creating k8s services" classname="ClusterLoaderV2" time="55.285490586"></testcase>
+      <testcase name="load: [step: 03] Creating PriorityClass for DaemonSets" classname="ClusterLoaderV2" time="0.077915319"></testcase>
+      <testcase name="load: [step: 04] create objects configmaps and secrets" classname="ClusterLoaderV2" time="129.263715527"></testcase>
+      <testcase name="load: [step: 05] Starting measurement for &#39;create objects&#39; [00] - " classname="ClusterLoaderV2" time="1.0817686"></testcase>
+      <testcase name="load: [step: 06] create objects" classname="ClusterLoaderV2" time="1193.450083133"></testcase>
+      <testcase name="load: [step: 07] Waiting for &#39;create objects&#39; to be completed [00] - " classname="ClusterLoaderV2" time="51.597798616"></testcase>
+      <testcase name="load: [step: 08] Creating scheduler throughput measurements [00] - HighThroughputPodStartupLatency" classname="ClusterLoaderV2" time="0.474201191"></testcase>
+      <testcase name="load: [step: 08] Creating scheduler throughput measurements [01] - WaitForSchedulerThroughputDeployments" classname="ClusterLoaderV2" time="0.173854353"></testcase>
+      <testcase name="load: [step: 08] Creating scheduler throughput measurements [02] - SchedulingThroughput" classname="ClusterLoaderV2" time="0.224640631"></testcase>
+      <testcase name="load: [step: 09] create scheduler throughput pods" classname="ClusterLoaderV2" time="0.095741809"></testcase>
+      <testcase name="load: [step: 10] Waiting for scheduler throughput pods to be created [00] - WaitForSchedulerThroughputDeployments" classname="ClusterLoaderV2" time="80.171105683"></testcase>
+      <testcase name="load: [step: 11] Collecting scheduler throughput measurements [00] - HighThroughputPodStartupLatency" classname="ClusterLoaderV2" time="2.225707895"></testcase>
+      <testcase name="load: [step: 11] Collecting scheduler throughput measurements [01] - SchedulingThroughput" classname="ClusterLoaderV2" time="0.074185401">
+          <failure type="Failure">:0&#xA;[measurement call SchedulingThroughput - SchedulingThroughput error: scheduler throughput: actual throughput 31.000000 lower than threshold 100.000000]&#xA;:0</failure>
+      </testcase>
+      <testcase name="load: [step: 12] delete scheduler throughput pods" classname="ClusterLoaderV2" time="0.089705954"></testcase>
+      <testcase name="load: [step: 13] Waiting for scheduler throughput pods to be deleted [00] - WaitForSchedulerThroughputDeployments" classname="ClusterLoaderV2" time="70.094503403"></testcase>
+      <testcase name="load: [step: 14] Starting latency pod measurements [00] - PodStartupLatency" classname="ClusterLoaderV2" time="0.273353243"></testcase>
+      <testcase name="load: [step: 14] Starting latency pod measurements [01] - WaitForRunningLatencyDeployments" classname="ClusterLoaderV2" time="0.174056533"></testcase>
+      <testcase name="load: [step: 15] Creating latency pods" classname="ClusterLoaderV2" time="100.311429896"></testcase>
+      <testcase name="load: [step: 16] Waiting for latency pods to be running [00] - WaitForRunningLatencyDeployments" classname="ClusterLoaderV2" time="41.480642631"></testcase>
+      <testcase name="load: [step: 17] Deleting latency pods" classname="ClusterLoaderV2" time="49.97983207"></testcase>
+      <testcase name="load: [step: 18] Waiting for latency pods to be deleted [00] - WaitForRunningLatencyDeployments" classname="ClusterLoaderV2" time="14.715318378"></testcase>
+      <testcase name="load: [step: 19] Collecting pod startup latency [00] - PodStartupLatency" classname="ClusterLoaderV2" time="1.825946172">
+          <failure type="Failure">:0&#xA;[measurement call PodStartupLatency - PodStartupLatency error: pod startup: too high latency 50th percentile: got 9.480957989s expected: 5s]&#xA;:0</failure>
+      </testcase>
+      <testcase name="load: [step: 20] Starting measurement for &#39;scale and update objects&#39; [00] - " classname="ClusterLoaderV2" time="0.079743198"></testcase>
+      <testcase name="load: [step: 21] scale and update objects" classname="ClusterLoaderV2" time="300.098568798"></testcase>
+      <testcase name="load: [step: 22] Waiting for &#39;scale and update objects&#39; to be completed [00] - " classname="ClusterLoaderV2" time="284.818184557"></testcase>
+      <testcase name="load: [step: 23] Starting measurement for &#39;delete objects&#39; [00] - " classname="ClusterLoaderV2" time="0.266737672"></testcase>
+      <testcase name="load: [step: 24] delete objects" classname="ClusterLoaderV2" time="1198.663816006"></testcase>
+      <testcase name="load: [step: 25] Waiting for &#39;delete objects&#39; to be completed [00] - " classname="ClusterLoaderV2" time="5.393595886"></testcase>
+      <testcase name="load: [step: 25] Waiting for &#39;delete objects&#39; to be completed [01] - WaitForPVCsToBeDeleted" classname="ClusterLoaderV2" time="5.413949679"></testcase>
+      <testcase name="load: [step: 26] delete objects configmaps and secrets" classname="ClusterLoaderV2" time="129.278107569"></testcase>
+      <testcase name="load: [step: 27] Deleting PriorityClass for DaemonSets" classname="ClusterLoaderV2" time="0.086819938"></testcase>
+      <testcase name="load: [step: 28] Deleting k8s services" classname="ClusterLoaderV2" time="61.528329165"></testcase>
+      <testcase name="load: [step: 29] gathering measurements [00] - APIResponsivenessPrometheus" classname="ClusterLoaderV2" time="0.259391839"></testcase>
+      <testcase name="load: [step: 29] gathering measurements [01] - APIResponsivenessPrometheusSimple" classname="ClusterLoaderV2" time="0.259361658"></testcase>
+      <testcase name="load: [step: 29] gathering measurements [02] - CreatePhasePodStartupLatency" classname="ClusterLoaderV2" time="2.493504637"></testcase>
+      <testcase name="load: [step: 29] gathering measurements [03] - InClusterNetworkLatency" classname="ClusterLoaderV2" time="0.259735055"></testcase>
+      <testcase name="load: [step: 29] gathering measurements [04] - SLOMeasurement" classname="ClusterLoaderV2" time="0.259702988"></testcase>
+      <testcase name="load: [step: 29] gathering measurements [05] - NetworkProgrammingLatency" classname="ClusterLoaderV2" time="0.259399093"></testcase>
+      <testcase name="load: [step: 29] gathering measurements [06] - Kube-proxy partial iptables restore failures" classname="ClusterLoaderV2" time="0.259786527"></testcase>
+      <testcase name="load: [step: 29] gathering measurements [07] - TestMetrics" classname="ClusterLoaderV2" time="9.518760865">
+          <failure type="Failure">:0&#xA;[measurement call TestMetrics - TestMetrics error: [action gather failed for SystemPodMetrics measurement: restart counts violation: RestartCount(ama-logs-rs-646684b546-zrp2b, ama-logs)=1, want &lt;= 0&#xA;action gather failed for ClusterOOMsTracker measurement: OOMs recorded: [{Node:aks-nodepool1-28855832-vmss000000 Process:mdsd ProcessMemory:1683172kB ProcessID:1808176 Time:2024-05-30 15:55:19 -0700 PDT} {Node:aks-nodepool1-28855832-vmss000000 Process:main.sh ProcessMemory:4740kB ProcessID:1808079 Time:2024-05-30 15:55:19 -0700 PDT} {Node:aks-nodepool1-28855832-vmss000000 Process:inotifywait ProcessMemory:2828kB ProcessID:1808100 Time:2024-05-30 15:55:19 -0700 PDT} {Node:aks-nodepool1-28855832-vmss000000 Process:crond ProcessMemory:4548kB ProcessID:1808168 Time:2024-05-30 15:55:19 -0700 PDT} {Node:aks-nodepool1-28855832-vmss000000 Process:mdsd ProcessMemory:1683172kB ProcessID:1808176 Time:2024-05-30 15:55:19 -0700 PDT} {Node:aks-nodepool1-28855832-vmss000000 Process:fluentd ProcessMemory:181888kB ProcessID:1808417 Time:2024-05-30 15:55:19 -0700 PDT} {Node:aks-nodepool1-28855832-vmss000000 Process:fluent-bit ProcessMemory:853292kB ProcessID:1808418 Time:2024-05-30 15:55:19 -0700 PDT} {Node:aks-nodepool1-28855832-vmss000000 Process:sleep ProcessMemory:3624kB ProcessID:1808442 Time:2024-05-30 15:55:19 -0700 PDT} {Node:aks-nodepool1-28855832-vmss000000 Process:ruby ProcessMemory:738668kB ProcessID:1808447 Time:2024-05-30 15:55:19 -0700 PDT}]]]&#xA;:0</failure>
+      </testcase>
+  </testsuite>

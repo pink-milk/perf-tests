@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <testsuite name="ClusterLoaderV2" tests="0" failures="3" errors="0" time="4855.455">
+      <testcase name="load overall (/home/oliviavuong/clusterloader2/cl2_linux/perf-tests/clusterloader2/olivias_test_files/load/test/load-og/config.yaml)" classname="ClusterLoaderV2" time="4855.371315387">
+          <failure type="Failure">:0&#xA;[measurement call SchedulingThroughput - SchedulingThroughput error: scheduler throughput: actual throughput 21.000000 lower than threshold 100.000000&#xA;measurement call PodStartupLatency - PodStartupLatency error: pod startup: too high latency 50th percentile: got 13.47251251s expected: 5s]&#xA;:0</failure>
+      </testcase>
+      <testcase name="load: [step: 01] starting measurements [00] - APIResponsivenessPrometheus" classname="ClusterLoaderV2" time="0.27403461"></testcase>
+      <testcase name="load: [step: 01] starting measurements [01] - APIResponsivenessPrometheusSimple" classname="ClusterLoaderV2" time="0.274093739"></testcase>
+      <testcase name="load: [step: 01] starting measurements [02] - CreatePhasePodStartupLatency" classname="ClusterLoaderV2" time="0.452548626"></testcase>
+      <testcase name="load: [step: 01] starting measurements [03] - InClusterNetworkLatency" classname="ClusterLoaderV2" time="0.274099547"></testcase>
+      <testcase name="load: [step: 01] starting measurements [04] - SLOMeasurement" classname="ClusterLoaderV2" time="0.274396003"></testcase>
+      <testcase name="load: [step: 01] starting measurements [05] - NetworkProgrammingLatency" classname="ClusterLoaderV2" time="0.352237405"></testcase>
+      <testcase name="load: [step: 01] starting measurements [06] - Kube-proxy partial iptables restore failures" classname="ClusterLoaderV2" time="0.274058627"></testcase>
+      <testcase name="load: [step: 01] starting measurements [07] - TestMetrics" classname="ClusterLoaderV2" time="2.968861831"></testcase>
+      <testcase name="load: [step: 02] Creating k8s services" classname="ClusterLoaderV2" time="70.579260804"></testcase>
+      <testcase name="load: [step: 03] Creating PriorityClass for DaemonSets" classname="ClusterLoaderV2" time="0.103495416"></testcase>
+      <testcase name="load: [step: 04] create objects configmaps and secrets" classname="ClusterLoaderV2" time="161.578544116"></testcase>
+      <testcase name="load: [step: 05] Starting measurement for &#39;create objects&#39; [00] - " classname="ClusterLoaderV2" time="1.498248749"></testcase>
+      <testcase name="load: [step: 06] create objects" classname="ClusterLoaderV2" time="1499.551015424"></testcase>
+      <testcase name="load: [step: 07] Waiting for &#39;create objects&#39; to be completed [00] - " classname="ClusterLoaderV2" time="27.750839889"></testcase>
+      <testcase name="load: [step: 08] Creating scheduler throughput measurements [00] - HighThroughputPodStartupLatency" classname="ClusterLoaderV2" time="0.286093649"></testcase>
+      <testcase name="load: [step: 08] Creating scheduler throughput measurements [01] - WaitForSchedulerThroughputDeployments" classname="ClusterLoaderV2" time="0.186331893"></testcase>
+      <testcase name="load: [step: 08] Creating scheduler throughput measurements [02] - SchedulingThroughput" classname="ClusterLoaderV2" time="0.238763277"></testcase>
+      <testcase name="load: [step: 09] create scheduler throughput pods" classname="ClusterLoaderV2" time="0.099756116"></testcase>
+      <testcase name="load: [step: 10] Waiting for scheduler throughput pods to be created [00] - WaitForSchedulerThroughputDeployments" classname="ClusterLoaderV2" time="85.30210399"></testcase>
+      <testcase name="load: [step: 11] Collecting scheduler throughput measurements [00] - HighThroughputPodStartupLatency" classname="ClusterLoaderV2" time="2.550321344"></testcase>
+      <testcase name="load: [step: 11] Collecting scheduler throughput measurements [01] - SchedulingThroughput" classname="ClusterLoaderV2" time="0.08312207">
+          <failure type="Failure">:0&#xA;[measurement call SchedulingThroughput - SchedulingThroughput error: scheduler throughput: actual throughput 21.000000 lower than threshold 100.000000]&#xA;:0</failure>
+      </testcase>
+      <testcase name="load: [step: 12] delete scheduler throughput pods" classname="ClusterLoaderV2" time="0.087979004"></testcase>
+      <testcase name="load: [step: 13] Waiting for scheduler throughput pods to be deleted [00] - WaitForSchedulerThroughputDeployments" classname="ClusterLoaderV2" time="68.765079704"></testcase>
+      <testcase name="load: [step: 14] Starting latency pod measurements [00] - PodStartupLatency" classname="ClusterLoaderV2" time="0.281446014"></testcase>
+      <testcase name="load: [step: 14] Starting latency pod measurements [01] - WaitForRunningLatencyDeployments" classname="ClusterLoaderV2" time="0.185441162"></testcase>
+      <testcase name="load: [step: 15] Creating latency pods" classname="ClusterLoaderV2" time="172.964681796"></testcase>
+      <testcase name="load: [step: 16] Waiting for latency pods to be running [00] - WaitForRunningLatencyDeployments" classname="ClusterLoaderV2" time="42.162530876"></testcase>
+      <testcase name="load: [step: 17] Deleting latency pods" classname="ClusterLoaderV2" time="61.278032121"></testcase>
+      <testcase name="load: [step: 18] Waiting for latency pods to be deleted [00] - WaitForRunningLatencyDeployments" classname="ClusterLoaderV2" time="34.635040923"></testcase>
+      <testcase name="load: [step: 19] Collecting pod startup latency [00] - PodStartupLatency" classname="ClusterLoaderV2" time="12.800757472">
+          <failure type="Failure">:0&#xA;[measurement call PodStartupLatency - PodStartupLatency error: pod startup: too high latency 50th percentile: got 13.47251251s expected: 5s]&#xA;:0</failure>
+      </testcase>
+      <testcase name="load: [step: 20] Starting measurement for &#39;scale and update objects&#39; [00] - " classname="ClusterLoaderV2" time="0.093988798"></testcase>
+      <testcase name="load: [step: 21] scale and update objects" classname="ClusterLoaderV2" time="375.14385417"></testcase>
+      <testcase name="load: [step: 22] Waiting for &#39;scale and update objects&#39; to be completed [00] - " classname="ClusterLoaderV2" time="349.344146317"></testcase>
+      <testcase name="load: [step: 23] Starting measurement for &#39;delete objects&#39; [00] - " classname="ClusterLoaderV2" time="0.31963226"></testcase>
+      <testcase name="load: [step: 24] delete objects" classname="ClusterLoaderV2" time="1500.304813946"></testcase>
+      <testcase name="load: [step: 25] Waiting for &#39;delete objects&#39; to be completed [00] - " classname="ClusterLoaderV2" time="5.3769733"></testcase>
+      <testcase name="load: [step: 25] Waiting for &#39;delete objects&#39; to be completed [01] - WaitForPVCsToBeDeleted" classname="ClusterLoaderV2" time="5.396104788"></testcase>
+      <testcase name="load: [step: 26] delete objects configmaps and secrets" classname="ClusterLoaderV2" time="161.573185512"></testcase>
+      <testcase name="load: [step: 27] Deleting PriorityClass for DaemonSets" classname="ClusterLoaderV2" time="0.087479364"></testcase>
+      <testcase name="load: [step: 28] Deleting k8s services" classname="ClusterLoaderV2" time="80.807476307"></testcase>
+      <testcase name="load: [step: 29] gathering measurements [00] - APIResponsivenessPrometheus" classname="ClusterLoaderV2" time="0.289157394"></testcase>
+      <testcase name="load: [step: 29] gathering measurements [01] - APIResponsivenessPrometheusSimple" classname="ClusterLoaderV2" time="0.288970844"></testcase>
+      <testcase name="load: [step: 29] gathering measurements [02] - CreatePhasePodStartupLatency" classname="ClusterLoaderV2" time="3.720403126"></testcase>
+      <testcase name="load: [step: 29] gathering measurements [03] - InClusterNetworkLatency" classname="ClusterLoaderV2" time="0.363399528"></testcase>
+      <testcase name="load: [step: 29] gathering measurements [04] - SLOMeasurement" classname="ClusterLoaderV2" time="0.290963789"></testcase>
+      <testcase name="load: [step: 29] gathering measurements [05] - NetworkProgrammingLatency" classname="ClusterLoaderV2" time="0.288990765"></testcase>
+      <testcase name="load: [step: 29] gathering measurements [06] - Kube-proxy partial iptables restore failures" classname="ClusterLoaderV2" time="0.288958736"></testcase>
+      <testcase name="load: [step: 29] gathering measurements [07] - TestMetrics" classname="ClusterLoaderV2" time="15.091797369"></testcase>
+  </testsuite>
