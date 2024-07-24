@@ -1,0 +1,744 @@
+[
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-dbk8f",
+    "host": "aksw22d800001m",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-z626w",
+    "host": "aksw22d8000019",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-lflg5",
+    "host": "aksw22d8000012",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-tp9d7",
+    "host": "aksw22d800000k",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-tbdqb",
+    "host": "aksw22d800001h",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-s7zjk",
+    "host": "aksw22d800002q",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-qrm4f",
+    "host": "aksw22d8000006",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-86vd7",
+    "host": "aksw22d800001c",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-25tqd",
+    "host": "aksw22d8000005",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-wndwb",
+    "host": "aksw22d800002b",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-v4xzg",
+    "host": "aksw22d800000d",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-74ggn",
+    "host": "aks-cplat-25327717-vmss000001",
+    "status": "PendingScheduled"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-vvsxn",
+    "host": "aksw22d800000r",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-qrqh6",
+    "host": "aksw22d800002k",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-twpjd",
+    "host": "aksw22d800002g",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-lqrxh",
+    "host": "aksw22d800002a",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-c4dxd",
+    "host": "aksw22d800000l",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-5w7s6",
+    "host": "aksw22d8000007",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-xwqgd",
+    "host": "aksw22d800002l",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-chf9f",
+    "host": "aksw22d8000000",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-xt8gt",
+    "host": "aksw22d800000j",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-f48j2",
+    "host": "aksw22d800001f",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-mvs4f",
+    "host": "aksw22d800000p",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-8r5kb",
+    "host": "aksw22d800000f",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-7wlgp",
+    "host": "aksw22d800001i",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-pqzgl",
+    "host": "aksw22d800000u",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-6dq8r",
+    "host": "aksw22d800000o",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-lm9r2",
+    "host": "aksw22d800001l",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-4hrdj",
+    "host": "aksw22d8000024",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-h9crd",
+    "host": "aksw22d800001j",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-rfbs7",
+    "host": "aksw22d8000003",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-wgxjv",
+    "host": "aksw22d800000t",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-zx8nb",
+    "host": "aksw22d8000023",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-jtvtf",
+    "host": "aksw22d800002d",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-9c9tw",
+    "host": "aksw22d8000008",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-t96mc",
+    "host": "aksw22d8000021",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-zgbm5",
+    "host": "aksw22d800002e",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-trk5h",
+    "host": "aks-wlinux-42684838-vmss000000",
+    "status": "PendingScheduled"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-wkzch",
+    "host": "aksw22d800000e",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-mltb9",
+    "host": "aksw22d800002n",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-l2qft",
+    "host": "aksw22d800002o",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-2xcrz",
+    "host": "aks-nodepool1-10766632-vmss000000",
+    "status": "PendingScheduled"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-s7ckx",
+    "host": "aksw22d8000025",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-btp2v",
+    "host": "aksw22d800000i",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-gnkdz",
+    "host": "aksw22d800002r",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-hb4h9",
+    "host": "aksw22d8000018",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-xllk4",
+    "host": "aksw22d800002h",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-vpgds",
+    "host": "aksw22d800001w",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-7gj5m",
+    "host": "aksw22d800001b",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-x4qxs",
+    "host": "aksw22d800001o",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-r68g9",
+    "host": "aksw22d800001e",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-znsnt",
+    "host": "aksw22d800002f",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-kqtcl",
+    "host": "aksw22d800000m",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-pxpkp",
+    "host": "aksw22d800000z",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-ds8fl",
+    "host": "aksw22d800001y",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-bsgfc",
+    "host": "aksw22d800000a",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-rtbxh",
+    "host": "aksw22d8000022",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-wtlsw",
+    "host": "aksw22d800001u",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-t4jzs",
+    "host": "aksw22d800000v",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-jk9tv",
+    "host": "aksw22d8000004",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-wqhwf",
+    "host": "aksw22d800001d",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-9bfrd",
+    "host": "aksw22d8000009",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-48z9s",
+    "host": "aksw22d800000w",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-tzbvm",
+    "host": "aksw22d800001g",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-qjr5k",
+    "host": "aksw22d800000s",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-zqwjg",
+    "host": "aksw22d800000x",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-xr9nk",
+    "host": "aksw22d800001s",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-g7vg5",
+    "host": "aksw22d800001z",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-77wrs",
+    "host": "aksw22d8000020",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-zxrsk",
+    "host": "aks-nodepool1-10766632-vmss000001",
+    "status": "PendingScheduled"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-wgc8q",
+    "host": "aksw22d800002i",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-xk6r2",
+    "host": "aksw22d800001k",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-fqsjz",
+    "host": "aksw22d800000c",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-l8grk",
+    "host": "aks-nodepool1-10766632-vmss000002",
+    "status": "PendingScheduled"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-fv8kd",
+    "host": "aksw22d800001q",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-69brh",
+    "host": "aksw22d800000n",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-2bgw7",
+    "host": "aksw22d8000017",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-vt5bf",
+    "host": "aksw22d800001v",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-2lxpp",
+    "host": "aksw22d8000027",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-8j77h",
+    "host": "aksw22d800002c",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-2fqk2",
+    "host": "aksw22d800000g",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-vjgsc",
+    "host": "aksw22d8000028",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-95kj6",
+    "host": "aksw22d800001p",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-hz2fj",
+    "host": "aksw22d800002m",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-l9gr6",
+    "host": "aksw22d8000015",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-zs47k",
+    "host": "aksw22d8000011",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-5dmxk",
+    "host": "aksw22d8000013",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-2zd5b",
+    "host": "aksw22d8000014",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-4p6l8",
+    "host": "aksw22d8000010",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-h4tdb",
+    "host": "aksw22d800001r",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-hldcg",
+    "host": "aksw22d800001n",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-8m5kv",
+    "host": "aksw22d800000q",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-prdjc",
+    "host": "aksw22d800002j",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-wbbbk",
+    "host": "aksw22d800001a",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-nlbh8",
+    "host": "aksw22d800002p",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-5s9mq",
+    "host": "aksw22d8000002",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-gdphr",
+    "host": "aksw22d800000y",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-qd8sb",
+    "host": "aksw22d800000h",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-njvt4",
+    "host": "aksw22d8000001",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-qw25v",
+    "host": "aksw22d800001t",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-s24jm",
+    "host": "aksw22d800000b",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-dhlgb",
+    "host": "aksw22d800001x",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-5zvgj",
+    "host": "aksw22d8000029",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-9cc5m",
+    "host": "aks-cplat-25327717-vmss000000",
+    "status": "PendingScheduled"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-22xbr",
+    "host": "aksw22d8000016",
+    "status": "RunningButNotReady"
+  },
+  {
+    "namespace": "test-uroaeh-1",
+    "controlledBy": "test-uroaeh-1/daemonset-0",
+    "name": "daemonset-0-5r5z9",
+    "host": "aksw22d8000026",
+    "status": "RunningButNotReady"
+  }
+]
